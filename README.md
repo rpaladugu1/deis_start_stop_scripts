@@ -2,7 +2,7 @@
 
 > Warning: Not for Production use and use them at your own risk.  
 
-* These scripts have been created for personal private use and pretty basic as such.*
+*These scripts have been created for personal private use and pretty basic as such.*
 
 Deis Start and Stop Scripts for Deis in a Vagrant and VirtualBox setup. 
 
