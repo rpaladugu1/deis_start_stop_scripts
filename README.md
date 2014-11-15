@@ -2,11 +2,11 @@
 
 > Warning: Not for Production use and use them at your own risk.  
 
-These have been created for personal private use and pretty basic as such. 
+* These scripts have been created for personal private use and pretty basic as such.*
 
 Deis Start and Stop Scripts for Deis in a Vagrant and VirtualBox setup. 
 
-They have been tested in Ubuntu 14.04 LTS. 
+_They have been tested in Ubuntu 14.04 LTS._ 
 
 Scenario 1: After setting up the Deis environment, you can run deis_start.sh to bring up the environment every time.
 
