@@ -17,10 +17,10 @@ Scenario 3: If you want to run deisctl commands in a new terminal or session, ru
 To run the scripts: 
 
 One time setup: 
-chmod 744 deis_start.sh deis_stop.sh deis_env.sh 
+> chmod 744 deis_start.sh deis_stop.sh deis_env.sh 
 
 To actually run them (will be run in your current session): 
-. ./deis_start.sh
+> . ./deis_start.sh
 
 Note: Just drop these scripts in to your deis folder to get started. 
 
